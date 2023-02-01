@@ -23,18 +23,32 @@ hey, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=5000&pause=2000&color=FFFFFF&width=435&lines=🍪+I+am+a+junior+DevOps.)](https://t.me/xbrekz)
 ---
 
-I consume knowledge as quickly as possible and try to assimilate the material with high quality. 
-From a hobby, I am fond of computer games, I would like to highlight Cyberpunk 2077, Spider Man Remastered. 
-I am also fond of cars, I have great respect for Japanese classics, but I myself would prefer audi. I love interesting work and keep working capacity as productively as possible in comfortable working conditions.
-I often spend time outside to stretch. I go in for sports in my spare time, I was previously passionate about mountain biking
+🏆 I consume knowledge as quickly as possible and try to assimilate the material with high quality. 
+
+🖥️ From a hobby, I am fond of computer games, I would like to highlight Cyberpunk 2077, Spider Man Remastered. 
+
+💖 I am also fond of cars, I have great respect for Japanese classics, but I myself would prefer audi. I love interesting work and keep working capacity as productively as possible in comfortable working conditions.
+
+😉 I often spend time outside to stretch. I go in for sports in my spare time, I was previously passionate about mountain biking
+
 ---
+
 💎 Graduated from the Moscow College of Space Instrumentation. N.E. Bauman
+
 💎 Worked as a system administrator in the local territorial administration. 
+
+
 💎 Then he worked at Sberbank as a senior engineer in the support group for a large investment business, 
+
 💎 after a leg they brought me to the Czech bank Home Credit Bank.
+
 💎 At the moment I work at Kaspersky Lab Junior DevOps.
+
 📕 Together with work, I study at the National Research University MPEI as an Information Security Engineer.
+
+
 ---
+
 
 
 
@@ -58,6 +72,8 @@ I want to help myself learn more easily and help others to learn useful material
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=5000&pause=2000&color=FFC0CB&width=435&lines=👾+My+skills+and+what+can+learnig.)](https://t.me/xbrekz)
 
 [![My Skills](https://skillicons.dev/icons?i=linux,raspberrypi,md,bash,powershell,ansible,py,go,aws,azure,docker,kubernetes,openshift,openstack,dynamodb,mongodb,redis,postgres,mysql,github,gitlab,grafana,prometheus,jenkins,maven,nginx,ps,pr,ae,vim,neovim,atom,vscode,ansible,redis)](https://skillicons.dev)
+
+---
 
 # My GitHub Stats
 
