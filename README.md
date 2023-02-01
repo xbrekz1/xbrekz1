@@ -85,7 +85,7 @@ I want to help myself learn more easily and help others to learn useful material
 </div>
 
 ### GitHub Activity Graph
-[![heyvaldemar's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=xbrekz1&color=a855f7&line=9046FF&hide_title=true&hide_border=true&theme=github-compact&point=9046FF)](https://github.com/heyvaldemar)
+[![heyvaldemar's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=xbrekz1&color=a855f7&line=9046FF&hide_title=true&hide_border=true&theme=github-compact&point=9046FF)](https://github.com/xbrekz1)
 
 <div align="center">
 
