@@ -1,8 +1,3 @@
-<div id="badges">
-  <a href="https://t.me/+3TpM-dTRT0w1MTgy">
-    <img src="https://img.shields.io/badge/Telegram-pink?style=for-the-badge&logo=Telegram&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
 
 hey, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)my name is xbrekz
 =========================================================================================================================================
