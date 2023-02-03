@@ -1,5 +1,5 @@
 
-hey, ![](https://i.pinimg.com/originals/e5/93/ab/e593ab0589d5f1b389e4dfbcce2bce20.gif)my name is xbrekz
+hey, ![](https://i.pinimg.com/originals/e5/93/ab/e593ab0589d5f1b389e4dfbcce2bce20.gif width=500)my name is xbrekz
 =========================================================================================================================================
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=5000&pause=1000&color=FFC0CB&width=335&lines=I+wish+you+good+day)](https://t.me/xbrekz)
