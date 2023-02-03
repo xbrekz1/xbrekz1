@@ -18,7 +18,7 @@ hey, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 =========================================================================================================================================
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=5000&pause=2000&color=FFFFFF&width=470lines=🍪+Hello+everyone+my+name+is+Pavel+Petlin.)](https://t.me/xbrekz)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=5000&pause=2000&color=FFFFFF&width=470&lines=🍪+Hello+everyone+my+name+is+Pavel+Petlin.)](https://t.me/xbrekz)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=5000&pause=2000&color=FFFFFF&width=435&lines=🍪+I+am+a+junior+DevOps.)](https://t.me/xbrekz)
 ---
