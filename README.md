@@ -1,6 +1,6 @@
 <div id="badges">
   <a href="https://t.me/+3TpM-dTRT0w1MTgy">
-    <img src="https://img.shields.io/badge/Telegram-purple?style=for-the-badge&logo=Telegram&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/Telegram-pink?style=for-the-badge&logo=Telegram&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
 <div id="header" align="center">
