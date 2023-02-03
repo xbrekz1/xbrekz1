@@ -74,7 +74,7 @@ I want to help myself learn more easily and help others to learn useful material
 
 
 
-![tokyo1](https://i.gifer.com/origin/64/6447c4cc91ecda7131620368b668f16f.gif)
+![tokyo1]([https://i.gifer.com/origin/64/6447c4cc91ecda7131620368b668f16f.gif](https://avatars.dzeninfra.ru/get-zen_doc/1112142/pub_5b187eb28c8be3f81e7f2ad7_5b18803f780019cf22bf9bb1/orig))
 
 
 # My GitHub Stats
