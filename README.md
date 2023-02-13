@@ -51,6 +51,15 @@ I want to help myself learn more easily and help others to learn useful material
 ---
 
 
+👾Here's a link:[Teletype](https://teletype.in/@xbrekz)
+<div id="badges">
+  <a href="https://teletype.in/@xbrekz">
+    <img src="https://img.shields.io/badge/Teletype-pink?style=for-the-badge&logo=Teletype&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+
+---
+
 👾Here's a link:[Telegram](https://t.me/+3TpM-dTRT0w1MTgy)
 <div id="badges">
   <a href="https://t.me/+3TpM-dTRT0w1MTgy">
